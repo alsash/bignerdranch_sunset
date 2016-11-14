@@ -1,2 +1,9 @@
-# bignerdranch_sunset
-Bignerdranch training - Android app "Sunset"
+# Sunset
+### Android app
+Bignerdranch training
+
+#### Exercises have been done in separate branches
+
+#
+
+[Download apk](../../raw/master/app/build/outputs/apk/app-debug.apk)
