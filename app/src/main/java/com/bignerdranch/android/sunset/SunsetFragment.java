@@ -47,7 +47,6 @@ public class SunsetFragment extends Fragment {
         sunsetSkyColor = ResourcesCompat.getColor(resources, R.color.sunset_sky, null);
         nightSkyColor = ResourcesCompat.getColor(resources, R.color.night_sky, null);
 
-
         return rootView;
     }
 
